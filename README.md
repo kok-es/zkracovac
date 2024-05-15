@@ -13,3 +13,6 @@ Rozhraní a back-end je hostovaný zdarma jako hobby projekt u Vercel-u
 
 ## Plán do budoucna
 Do budoucna bych chtěl přidat i sledování počtu otevření odkazů, abych mohl sledovat, kolik lidí na odkazy kliklo
+
+## DEMO
+[Odkaz na demo](https://zkracovac.vercel.app/)
